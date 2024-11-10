@@ -1,4 +1,4 @@
 # Sissejuhatus andmeteadusesse projekt
-    
-Students’ performance analysis
-Mattias Minejev, Annabel Aleksius, Tõnis Tõnissoo
+           
+Students’ performance analysis     
+Mattias Minejev, Annabel Aleksius, Tõnis Tõnissoo     
